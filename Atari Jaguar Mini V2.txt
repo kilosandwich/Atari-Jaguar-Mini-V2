@@ -1,0 +1,28 @@
+Contributors:
+Phillip("May") Wandyez
+Chinmay Diore
+Alex
+
+ATARI JAGUAR MINI V2
+Creation:
+1.) Download windows on raspberry
+www.worproject.com
+2.) Download a version of windows 11 
+Version used:
+Version 2221.3007 arm 64 
+Download at:
+https://uupdump.net/
+3.) Flash windows 11 to raspberry pi
+4.) Install big PEMU on raspberry pi
+Download at:
+https://www.richwhitehouse.com/jaguar/
+5.) Download Atari Jaguar ROMs legally.
+6.) Play Atari Jaguar ROMs on raspberry pi.
+(It will be slow)
+
+Other attempts that did not work:
+Using QEMU to run WINE to run BigPEMU on Ubuntu
+>Did not work because BigPEMU is a amd64 application, whereas raspberry pi is arm64, runs too slow to be functional
+>Similar attempts using crossover did not work
+
+
